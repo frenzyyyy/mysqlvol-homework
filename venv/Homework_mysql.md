@@ -43,6 +43,14 @@
     
         8.0.29 MySQL Community Server - GPL
 
+  - Подключение и список таблиц:
+
+    ![img_8.png](img_8.png)
+
+  - Записи с price>300:
+
+    ![img_9.png](img_9.png)
+
 ---
 
 ###Задача 2
